@@ -6,7 +6,7 @@ An enterprise-grade network simulation built using **GNS3**, demonstrating full 
 
 ##  Network Architecture
 
-![Network Topology](./BGP.jpg) 
+![Network Topology](./BGP.png) 
 The network is divided into three Autonomous Systems (AS):
 
 * **AS 100:** Uses **EIGRP** as IGP for internal reachability and connects via **eBGP** to AS 200.
